@@ -8,7 +8,7 @@ i experiment now and then :P like **ruby** and **swift** (check my repos!)
 
 
 connect with me on [linkedin](https://www.linkedin.com/in/sarayu-mummidi/)!  
-have any questions? here's my [email](sarayu.mummidi@gmail.com)!
+have any questions? here's my [email](mailto:sarayu.mummidi@gmail.com)!
 
 
 <!--
