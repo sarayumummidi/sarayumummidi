@@ -1,5 +1,5 @@
 ## Sarayu Mummidi
-hello! welcome to my github! i am sarayu mummidi, and studying computer science at uc davis.  
+hello! welcome to my github! i am sarayu mummidi, and im studying computer science at uc davis.  
 im currently interning as a swe at a startup and researching with uc davis center of mind and brain.  
 i'm pretty new to building, but i love creating projects using new techstacks!  
 
